@@ -16,8 +16,8 @@
 </p>
 
 ### 🤵 About Me:
-- I am a versatilist and easily adapt to different hats. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-- DL engineer 🤖 in process. My areas of interest are NLP and Computer Vision (Vision Transfomer - [ViT](https://github.com/google-research/vision_transformer)) 
+- I am versatile and easily adapt to different tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+- DL engineer 🤖 in process. My areas of interest are NLP and Computer Vision (Vision Transfomer - [ViT](https://github.com/google-research/vision_transformer), DeiT, DERT, etc) 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 💻 I use daily **.java**, **.py**, **.cpp**.
 - ❤️ I love deploying Deep Learning models.
