@@ -25,7 +25,6 @@
 - ❤️ I love deploying Deep Learning models.
 - 📫 How to reach [me](mailto:christiansanchezsaune@gmail.com).
 - 🦝 Member of [ACECOM](https://www.facebook.com/acecom.uni/).
-<br/>
 
 ### 👨🏻‍💻 Languages and Tools 
 <br/>
