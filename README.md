@@ -43,13 +43,11 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://numpy.org/images/logos/numpy.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
-<br/>
 <br/>
 
 ### ⚡ GitHub Stats
 <center>
-  <table cellspacing="0" cellpadding="0" style="border: none;">
+  <table cellspacing="0" cellpadding="0" style="border:none;">
     <tr>
       <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiroForYou&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" /></td>
       <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=HiroForYou&show_icons=true&hide_border=true&count_private=true&theme=gruvbox"/></td>
