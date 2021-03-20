@@ -3,6 +3,9 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=HiroForYou" alt="HiroForYou" />
+  <a href="#">
+  <img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg">
+  </a>
 	<a href="https://twitter.com/HiroCharlie">
   <img src="https://img.shields.io/twitter/follow/HiroCharlie?label=Twitter&style=social" alt="Twitter">
   </a>
@@ -58,6 +61,14 @@
 ### ✨ Main repositories
 <br/>
 
+  <a href="https://github.com/HiroForYou/Deep-Learning-Collection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=Deep-Learning-Collection&theme=gruvbox" />
+  </a> 
+
+  <a href="https://github.com/Enigma-A-I/RasPi-BloodView">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Enigma-A-I&repo=RasPi-BloodView&theme=gruvbox" />
+  </a> 
+
 <a href="https://github.com/HiroForYou/RL-Algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=RL-Algorithms&theme=gruvbox" />
   </a>  
@@ -66,11 +77,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AcecomFCUNI&repo=faceAcecom&theme=gruvbox" />
 </a> 
 
-  <a href="https://github.com/Enigma-A-I/RasPi-BloodView">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Enigma-A-I&repo=RasPi-BloodView&theme=gruvbox" />
-  </a> 
-
   <a href="https://github.com/uniMedic/uniMedic-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uniMedic&repo=uniMedic-App&theme=gruvbox" />
-  </a>  
+  </a>   
+
+   <a href="https://github.com/HiroForYou/ComputerScience-UNI-wiki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=ComputerScience-UNI-wiki&theme=gruvbox" />
+  </a>    
+
+
 
