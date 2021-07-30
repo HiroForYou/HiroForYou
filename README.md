@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Cristh<font color="#436BF9">IA</font>n Wiki</h1>
 
 <p align="center"> 
@@ -19,18 +18,20 @@
 </p>
 
 ### 🤵 About Me
+
 <br/>
 
-- I am versatile and easily adapt to different tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-- DL engineer 🤖 in process. My areas of interest)  are NLP and Computer Vision 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- I am versatile and easily adapt to different tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+- DL engineer 🤖 in process. My areas of interest) are NLP and Computer Vision
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 💻 I use daily **.py**, **.cpp** and **.js**.
 - ❤️ I love create and deploying Deep Learning models.
 - 📫 How to reach [me](mailto:christiansanchezsaune@gmail.com).
 - 🦝 Member of [ACECOM](https://www.facebook.com/acecom.uni/).
 - 🌎 Check my **new website** [www.cristhianwiki.com](https://www.cristhianwiki.com/)
 
-### 👨🏻‍💻 Languages and Tools 
+### 👨🏻‍💻 Languages and Tools
+
 <br/>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -51,6 +52,7 @@
 <br/>
 
 ### ⚡ GitHub Stats
+
 <center>
   <table cellspacing="0" cellpadding="0" style="border:none;">
     <tr>
@@ -61,31 +63,29 @@
 </center>
 
 ### ✨ Main repositories
+
 <br/>
 
   <a href="https://github.com/HiroForYou/Deep-Learning-Collection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=Deep-Learning-Collection&theme=gruvbox" />
-  </a> 
+  </a>
 
   <a href="https://github.com/Enigma-A-I/RasPi-BloodView">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Enigma-A-I&repo=RasPi-BloodView&theme=gruvbox" />
-  </a> 
+  </a>
 
 <a href="https://github.com/HiroForYou/RL-Algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=RL-Algorithms&theme=gruvbox" />
-  </a>  
+  </a>
 
 <a href="https://github.com/AcecomFCUNI/faceAcecom">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AcecomFCUNI&repo=faceAcecom&theme=gruvbox" />
-</a> 
+</a>
 
   <a href="https://github.com/uniMedic/uniMedic-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uniMedic&repo=uniMedic-App&theme=gruvbox" />
-  </a>   
+  </a>
 
    <a href="https://github.com/HiroForYou/ComputerScience-UNI-wiki">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=ComputerScience-UNI-wiki&theme=gruvbox" />
-  </a>    
-
-
-
+  </a>
