@@ -22,10 +22,10 @@
 <br/>
 
 - I am versatile and easily adapt to different tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-- DL engineer 🤖 in process. My areas of interest are NLP and Computer Vision (Vision Transfomer - [ViT](https://github.com/google-research/vision_transformer), DeiT, DERT, etc) 
+- DL engineer 🤖 in process. My areas of interest)  are NLP and Computer Vision 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 💻 I use daily **.java**, **.py**, **.cpp**.
-- ❤️ I love deploying Deep Learning models.
+- 💻 I use daily **.py**, **.cpp** and **.js**.
+- ❤️ I love create and deploying Deep Learning models.
 - 📫 How to reach [me](mailto:christiansanchezsaune@gmail.com).
 - 🦝 Member of [ACECOM](https://www.facebook.com/acecom.uni/).
 
@@ -35,8 +35,8 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://img1.freepng.es/20180731/aap/kisspng-gopher-docker-computer-programming-clojure-5b60bcbb843b89.1886125415330664275416.jpg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
@@ -46,6 +46,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://numpy.org/images/logos/numpy.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/480/mongodb.png"></code>
 <br/>
 
 ### ⚡ GitHub Stats
