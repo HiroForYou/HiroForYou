@@ -46,7 +46,7 @@
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/512px-PyTorch_logo_icon.svg.png"></code>
   <code><img height="40" src="https://secure.meetupstatic.com/photos/event/5/9/e/8/600_494063016.jpeg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-  <code><img height="40" src="https://numpy.org/images/logos/numpy.svg"></code>
+  <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/480/mongodb.png"></code>
 <br/>
