@@ -85,7 +85,3 @@
   <a href="https://github.com/uniMedic/uniMedic-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uniMedic&repo=uniMedic-App&theme=gruvbox" />
   </a>
-
-   <a href="https://github.com/HiroForYou/ComputerScience-UNI-wiki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=ComputerScience-UNI-wiki&theme=gruvbox" />
-  </a>
