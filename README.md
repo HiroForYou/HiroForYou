@@ -3,7 +3,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=HiroForYou" alt="HiroForYou" />
   <a href="#">
-  <img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg">
+  <img src="https://img.shields.io/badge/Deep%20Learning-Evangelist-_.svg">
   </a>
 	<a href="https://twitter.com/HiroCharlie">
   <img src="https://img.shields.io/twitter/follow/HiroCharlie?label=Twitter&style=social" alt="Twitter">
