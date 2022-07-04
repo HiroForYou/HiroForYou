@@ -22,7 +22,7 @@
 <br/>
 
 - I am versatile and easily adapt to different tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
-- DL engineer 🤖 in process. My areas of interest) are NLP and Computer Vision
+- DL engineer 🤖 focused on Computer Vision
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 💻 I use daily **.py**, **.cpp** and **.js**.
 - ❤️ I love create and deploying Deep Learning models.
