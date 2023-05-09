@@ -56,8 +56,8 @@
 <center>
   <table cellspacing="0" cellpadding="0" style="border:none;">
     <tr>
-      <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiroForYou&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" /></td>
-      <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=HiroForYou&show_icons=true&hide_border=true&count_private=true&theme=gruvbox"/></td>
+      <td><img width="300px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HiroForYou&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" /></td>
+      <td><img width="500px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HiroForYou&show_icons=true&hide_border=true&count_private=true&theme=gruvbox"/></td>
     </tr>   
   </table>
 </center>
@@ -67,21 +67,21 @@
 <br/>
 
   <a href="https://github.com/HiroForYou/Deep-Learning-Collection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=Deep-Learning-Collection&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HiroForYou&repo=Deep-Learning-Collection&theme=gruvbox" />
   </a>
 
   <a href="https://github.com/enigmaaiorg/RasPi-BloodView">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=enigmaaiorg&repo=RasPi-BloodView&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=enigmaaiorg&repo=RasPi-BloodView&theme=gruvbox" />
   </a>
 
 <a href="https://github.com/HiroForYou/RL-Algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=RL-Algorithms&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HiroForYou&repo=RL-Algorithms&theme=gruvbox" />
   </a>
 
 <a href="https://github.com/AcecomFCUNI/faceAcecom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AcecomFCUNI&repo=faceAcecom&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AcecomFCUNI&repo=faceAcecom&theme=gruvbox" />
 </a>
 
   <a href="https://github.com/uniMedic/uniMedic-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uniMedic&repo=uniMedic-App&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=uniMedic&repo=uniMedic-App&theme=gruvbox" />
   </a>
