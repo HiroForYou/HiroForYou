@@ -21,16 +21,34 @@
 
 <br/>
 
-- I am versatile and easily adapt to different tasks. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
-- DL engineer 🤖 focused on Computer Vision
+- Passionate and adaptable tech enthusiast, always eager to explore cutting-edge tech stacks 💻 and harness their potential to craft innovative solutions 🛠️.
+- 🤖 Deep Learning engineer with a focus on Computer Vision, blending creativity with code to bring ideas to life
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 💻 I use daily **.py**, **.cpp** and **.js**.
-- ❤️ I love create and deploying Deep Learning models.
-- 📫 How to reach [me](mailto:christiansanchezsaune@gmail.com).
-- 🦝 Member of [ACECOM](https://www.facebook.com/acecom.uni/).
-- 🌎 Check my **new website** [www.cristhianwiki.com](https://www.cristhianwiki.com/)
+- 💻 Daily languages: **Python (.py)**, **C++ (.cpp)**, and **TypeScript (.js)**.
+- ❤️ I derive joy from creating and deploying state-of-the-art Deep Learning models.
+- 📫 Reach out to [me](mailto:christiansanchezsaune@gmail.com) for collaborations or discussions.
+- 🦝 Proud member of [ACECOM](https://www.facebook.com/acecom.uni/), where knowledge meets community.
+- 🌎 Explore my **new website** [www.cristhianwiki.com](https://www.cristhianwiki.com/) to discover more about my journey.
 
-### 👨🏻‍💻 Languages and Tools
+### 🚀 Tech Stacks
+
+#### MLOps
+- **Machine Learning Frameworks**: TensorFlow, PyTorch
+- **Containerization & Orchestration**: Docker, Kubernetes
+- **Continuous Integration & Deployment**: Jenkins, GitLab CI
+- **Model Versioning**: MLflow
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+- **Cloud Platforms**: AWS, Azure
+- **Collaboration Tools**: Slack, Jira
+
+#### Full Stack Development
+- **Frontend**: React.js, Vue.js
+- **Backend**: Node.js, Django
+- **Database**: MongoDB, PostgreSQL
+- **APIs**: REST, GraphQL
+- **Version Control**: Git, GitHub
+- **Deployment & Hosting**: Heroku, Netlify
+- **DevOps**: Ansible, Terraform
 
 <br/>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
@@ -50,6 +68,8 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
   <code><img height="40" src="https://img.icons8.com/color/480/mongodb.png"></code>
 <br/>
+
+Let's code and build amazing things together! 🚀🌐
 
 ### ⚡ GitHub Stats
 
