@@ -24,7 +24,7 @@
 - Passionate and adaptable tech enthusiast, always eager to explore cutting-edge tech stacks 💻 and harness their potential to craft innovative solutions 🛠️.
 - 🤖 Deep Learning engineer with a focus on Computer Vision, blending creativity with code to bring ideas to life
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 💻 Daily languages: **Python (.py)**, **C++ (.cpp)**, and **TypeScript (.js)**.
+- 💻 Daily languages: **Python (.py)**, **C++ (.cpp)**, and **TypeScript (.ts)**.
 - ❤️ I derive joy from creating and deploying state-of-the-art Deep Learning models.
 - 📫 Reach out to [me](mailto:christiansanchezsaune@gmail.com) for collaborations or discussions.
 - 🦝 Proud member of [ACECOM](https://www.facebook.com/acecom.uni/), where knowledge meets community.
