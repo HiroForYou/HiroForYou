@@ -89,21 +89,21 @@ Let's code and build amazing things together! 🚀🌐
 <br/>
 
   <a href="https://github.com/HiroForYou/Deep-Learning-Collection">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HiroForYou&repo=Deep-Learning-Collection&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HiroForYou&repo=Deep-Learning-Collection&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/enigmaaiorg/RasPi-BloodView">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=enigmaaiorg&repo=RasPi-BloodView&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=enigmaaiorg&repo=RasPi-BloodView&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/HiroForYou/RL-Algorithms">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HiroForYou&repo=RL-Algorithms&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HiroForYou&repo=RL-Algorithms&theme=tokyonight" />
   </a>
 
 <a href="https://github.com/AcecomFCUNI/faceAcecom">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AcecomFCUNI&repo=faceAcecom&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AcecomFCUNI&repo=faceAcecom&theme=tokyonight" />
 </a>
 
   <a href="https://github.com/uniMedic/uniMedic-App">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=uniMedic&repo=uniMedic-App&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=uniMedic&repo=uniMedic-App&theme=tokyonight" />
   </a>
