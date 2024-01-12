@@ -69,6 +69,8 @@
   <code><img height="40" src="https://img.icons8.com/color/480/mongodb.png"></code>
 <br/>
 
+<br/>
+
 Let's code and build amazing things together! 🚀🌐
 
 ### ⚡ GitHub Stats
@@ -76,8 +78,8 @@ Let's code and build amazing things together! 🚀🌐
 <center>
   <table cellspacing="0" cellpadding="0" style="border:none;">
     <tr>
-      <td><img width="300px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HiroForYou&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" /></td>
-      <td><img width="500px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HiroForYou&show_icons=true&hide_border=true&count_private=true&theme=gruvbox"/></td>
+      <td><img width="300px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HiroForYou&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" /></td>
+      <td><img width="500px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HiroForYou&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/></td>
     </tr>   
   </table>
 </center>
