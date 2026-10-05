@@ -15,15 +15,15 @@
   <img src="./dev.svg" width="480" alt="Illustration of someone coding at a desk" />
 </p>
 
-## 🧠 About me
+## About me
 
-- I design and ship deep learning systems — LLM/agentic pipelines, RAG, time-series forecasting, computer vision — from the research notebook through to a production endpoint someone actually calls.
-- 🛠️ Right now: consulting on ML/data platforms for beverage companies across LATAM — real-time pipelines, Snowflake ML forecasting, MLOps you don't have to babysit.
-- 🎓 Slowly working my way toward grad school in deep learning and neuroscience.
-- 🏍️ Off the clock: motorcycles, cars, traveling when I can, the gym, and mostly just my cats.
-- 📫 Reach me at [christiansanchezsaune@gmail.com](mailto:christiansanchezsaune@gmail.com).
+- ML and AI engineer. I build deep learning systems (LLM and agentic pipelines, RAG, time-series forecasting, computer vision) from research notebook to production endpoint.
+- Current work: ML and data platform consulting for beverage companies in LATAM (real-time pipelines, Snowflake ML forecasting, MLOps).
+- Next step: grad school in deep learning and neuroscience.
+- Outside work: motorcycles, cars, travel, the gym and my cats.
+- Contact: [christiansanchezsaune@gmail.com](mailto:christiansanchezsaune@gmail.com).
 
-## 🚀 What I actually use
+## Stack
 
 <p align="left">
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
@@ -37,32 +37,39 @@
 </p>
 
 - **Models & training**: PyTorch, TensorFlow, LLMs, RAG, Agentic AI, CNNs, time series
-- **Serving & MLOps**: FastAPI, Docker, MLflow, Kubeflow, Feature Store / Model Registry
+- **LLM tooling**: LangChain, LangGraph, LangSmith, Ollama, Qdrant
+- **Serving & MLOps**: FastAPI, Docker, MLflow, Kubeflow, Feature Store / Model Registry, Prometheus, Grafana
 - **Data & cloud**: Python, Pandas, SQL, Snowflake, Spark, AWS, Azure, GCP
 
-## 🎧 Recently
+## Recent work
 
-- **[MusicDown](https://www.cristhianwiki.com/blog/musicdown-android-mp3-downloader-expo/)** — an Expo/Android app + Node server that converts a YouTube link into a tagged MP3, built to stop losing music every time my commute goes underground. Wrote up the Android 14 permission bug that ate most of a Saturday.
-- Rebuilt my [personal site](https://www.cristhianwiki.com/) in Astro.
+| Project | Description | Stack |
+|---|---|---|
+| [ShopAssist AI Agent](https://github.com/HiroForYou/shopassist-ai-agent) | Refund-support agent on a local LLM, built in eight phases. RAG retrieval at hit@3 = 1.00; hybrid router cut latency 20% and tokens 19%; guardrails block 9/9 unconfirmed refunds. | Ollama, LangGraph, Qdrant, LangSmith, FastAPI (SSE), Prometheus, Grafana |
+| [MusicDown](https://github.com/HiroForYou/app-mp3-download) | Android app and Node server that convert a YouTube link into a tagged MP3. Android 14 permission fix documented in the [blog post](https://www.cristhianwiki.com/blog/musicdown-android-mp3-downloader-expo/). | Expo, React Native, Express, yt-dlp, ffmpeg |
+| [Personal site](https://www.cristhianwiki.com/) | Portfolio and blog. | Astro |
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HiroForYou&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiroForYou&show_icons=true&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
-## 📌 A few projects I'd point you to
+## Selected projects
 
 <p align="left">
+  <a href="https://github.com/HiroForYou/shopassist-ai-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=shopassist-ai-agent&theme=tokyonight" alt="shopassist-ai-agent" />
+  </a>
+  <a href="https://github.com/HiroForYou/app-mp3-download">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=app-mp3-download&theme=tokyonight" alt="app-mp3-download" />
+  </a>
   <a href="https://github.com/HiroForYou/cristhIAn">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=cristhIAn&theme=tokyonight" alt="cristhIAn" />
   </a>
   <a href="https://github.com/HiroForYou/demo-mlops-snowflake">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=demo-mlops-snowflake&theme=tokyonight" alt="demo-mlops-snowflake" />
-  </a>
-  <a href="https://github.com/HiroForYou/agent-csv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=agent-csv&theme=tokyonight" alt="agent-csv" />
   </a>
   <a href="https://github.com/enigmaaiorg/RasPi-BloodView">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=enigmaaiorg&repo=RasPi-BloodView&theme=tokyonight" alt="RasPi-BloodView" />
