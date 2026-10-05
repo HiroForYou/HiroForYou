@@ -48,26 +48,26 @@
 ## 📊 GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HiroForYou&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HiroForYou&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HiroForYou&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiroForYou&show_icons=true&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 
 ## 📌 A few projects I'd point you to
 
 <p align="left">
   <a href="https://github.com/HiroForYou/cristhIAn">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HiroForYou&repo=cristhIAn&theme=tokyonight" alt="cristhIAn" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=cristhIAn&theme=tokyonight" alt="cristhIAn" />
   </a>
   <a href="https://github.com/HiroForYou/demo-mlops-snowflake">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HiroForYou&repo=demo-mlops-snowflake&theme=tokyonight" alt="demo-mlops-snowflake" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=demo-mlops-snowflake&theme=tokyonight" alt="demo-mlops-snowflake" />
   </a>
   <a href="https://github.com/HiroForYou/agent-csv">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HiroForYou&repo=agent-csv&theme=tokyonight" alt="agent-csv" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HiroForYou&repo=agent-csv&theme=tokyonight" alt="agent-csv" />
   </a>
   <a href="https://github.com/enigmaaiorg/RasPi-BloodView">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=enigmaaiorg&repo=RasPi-BloodView&theme=tokyonight" alt="RasPi-BloodView" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enigmaaiorg&repo=RasPi-BloodView&theme=tokyonight" alt="RasPi-BloodView" />
   </a>
   <a href="https://github.com/uniMedic/uniMedic-App">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=uniMedic&repo=uniMedic-App&theme=tokyonight" alt="uniMedic-App" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=uniMedic&repo=uniMedic-App&theme=tokyonight" alt="uniMedic-App" />
   </a>
 </p>
